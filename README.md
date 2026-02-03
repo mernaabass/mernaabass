@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=2000&color=555555&center=true&vCenter=true&width=600&height=100&lines=AI+%26+Machine+Learning+Engineer;Flutter+Cross-Platform+Developer;Computer+Vision+Researcher;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=2000&color=555555&center=true&vCenter=true&width=600&height=100&lines=AI+%26+Machine+Learning+Engineer;Flutter+Cross-Platform+Developer;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 🤖 I have a strong passion for bridging the gap between complex AI models and user-friendly interfaces to create end-to-end solutions.  
 
-💡 Experienced in **Computer Vision**, **NLP**, and **Data Analysis**, with practical projects aimed at solving real-world problems like healthcare and accessibility.
+💡 Experienced in **NLP** and **Data Analysis**, with practical projects aimed at solving real-world problems like healthcare and accessibility.
 
 🚀 Currently focusing on enhancing my problem-solving skills and deploying scalable AI applications.
 
@@ -46,7 +46,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mernaabass" height="30" width="40" />
   </a>
   <a href="mailto:mernaabass@outlook.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
+    <img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" height="30" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@
 <br><br>
 <h2 align="left">📝 My Projects and Resume</h2>
 <p align="left">
-  👨‍💻 Check out my latest work including <strong>SafeHaven</strong> and <strong>EnviLens</strong> at <a href="https://github.com/mernaabass?tab=repositories">My Repositories</a>.
+  👨‍💻 Check out my latest work at <a href="https://github.com/mernaabass?tab=repositories">My Repositories</a>.
 </p>
 
 <p align="left">
