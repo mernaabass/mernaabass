@@ -20,7 +20,7 @@
 
 🤖 I have a strong passion for bridging the gap between complex AI models and user-friendly interfaces to create end-to-end solutions.  
 
-💡 Experienced in **NLP** and **Data Analysis**, with practical projects aimed at solving real-world problems like healthcare and accessibility.
+💡 Passionate about building AI-powered applications aimed at solving real-world problems like healthcare and accessibility.
 
 🚀 Currently focusing on enhancing my problem-solving skills and deploying scalable AI applications.
 
