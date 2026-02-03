@@ -12,7 +12,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> More About Me
 
-<picture> <img align="right" src="./Developer_activity.gif" width = 250px></picture>
+<picture> <img align="right" src="./Coding_girl.gif" width = 250px></picture>
 
 🏫 **I am a Senior Undergraduate Student** at the [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) at [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
 
