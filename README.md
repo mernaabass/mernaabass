@@ -96,7 +96,9 @@
 <p align="left">
   👨‍💻 Check out my latest work at <a href="https://github.com/mernaabass?tab=repositories">My Repositories</a>.
 </p>
-
+<p align="left">
+  📫 How to reach me: <strong>mernaabass@outlook.com</strong>.
+</p>
 <p align="left">
   📄 View my detailed experience: <a href="https://drive.google.com/file/d/1t4NmXgZGGg3TfkxUnLZnQICy1a2FoEmL/view?usp=drive_link" target="_blank"><strong>Download My Resume</strong></a>
 </p>
