@@ -116,7 +116,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mernaabass&radius=16&theme=tokyo-night&area=true&hide_border=true&order=5" height="300" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mernaabass&bg_color=0D1117&color=ffffff&line=8E44AD&point=D2B4DE&area=true&hide_border=true&order=5" height="300" alt="Activity Graph" />
 </div>
 
 <div align="center">
