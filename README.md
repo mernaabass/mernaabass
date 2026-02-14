@@ -116,5 +116,9 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mernaabass&radius=16&theme=tokyo-night&area=true&hide_border=true&order=5" height="300" alt="Activity Graph" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/mernaabass/mernaabass/output/snake.svg" alt="Snake animation" />
 </div>
