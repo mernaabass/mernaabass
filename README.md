@@ -100,7 +100,7 @@
   📫 How to reach me: <strong>mernaabass@outlook.com</strong>.
 </p>
 <p align="left">
-  📄 View my detailed experience: <a href="https://drive.google.com/file/d/1t4NmXgZGGg3TfkxUnLZnQICy1a2FoEmL/view?usp=drive_link" target="_blank"><strong>Download My Resume</strong></a>
+  📄 View my detailed experience: <a href="https://drive.google.com/file/d/1oMrAHFVUyuFPZiG0b8sB6EzqNRtn8nO_/view?usp=drive_link" target="_blank"><strong>Download My Resume</strong></a>
 </p>
 
 <br><br>
