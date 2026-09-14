@@ -116,7 +116,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mernaabass/mernaabass/output/activity-graph.svg" height="300" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/mernaabass/mernaabass/output-activity/activity-graph.svg" height="300" alt="Activity Graph" />
 </div>
 
 <div align="center">
