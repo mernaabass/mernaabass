@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,9 +20,14 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          pull_before_commit: true
+          pull_before_commit: true      - name: Retry push if rejected
+        if: failure()
+        run: |
+          git fetch origin main
+          git rebase origin/main
+          git push origin main
