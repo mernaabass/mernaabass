@@ -14,7 +14,7 @@
 
 <picture> <img align="right" src="./Coding_girl.gif" width = 250px></picture>
 
-🏫 **I am a Senior Undergraduate Student** at the [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) at [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
+🏫 **I am an AI Graduate** from the [Faculty of Artificial Intelligence](https://ai.deltauniv.edu.eg/en/home/index) at [Delta University for Science and Technology](https://new.deltauniv.edu.eg/en/home/index).  
 
 📚 Specializing in **Artificial Intelligence**, **Machine Learning**, and **Building Smart Mobile Applications** with Flutter.  
 
