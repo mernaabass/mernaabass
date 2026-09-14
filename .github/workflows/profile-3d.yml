@@ -27,5 +27,7 @@ jobs:
           git pull origin main --rebase
           git add -A .
           if git commit -m "generated"; then
-            git push
+            for i in {1..3}; do
+              git push --force-with-lease && break || sleep 5
+            done
           fi
