@@ -18,15 +18,7 @@ jobs:
           fetch-depth: 0
       
       - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
+        with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated" || exit 0
-          git pull --rebase origin main
-          git push origin main --force
+          pull_before_commit: true
