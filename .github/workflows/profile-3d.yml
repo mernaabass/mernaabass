@@ -25,9 +25,10 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          pull_before_commit: true      - name: Retry push if rejected
+          pull_before_commit: true
+
+      - name: Force push if rejected
         if: failure()
         run: |
           git fetch origin main
-          git rebase origin/main
-          git push origin main
+          git push --force-with-lease origin main
